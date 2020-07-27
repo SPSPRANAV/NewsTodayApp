@@ -3,10 +3,10 @@
 A Flutter application for displaying live news using API from newsapi.org 
 
 # Plugins/Dependencies Used
-  http: ^0.12.2
-  cached_network_image: ^2.2.0+1
-  webview_flutter: ^0.3.22+1
-  flutter_launcher_icons: ^0.7.5
+ - http: ^0.12.2
+ - cached_network_image: ^2.2.0+1
+ - webview_flutter: ^0.3.22+1
+ - flutter_launcher_icons: ^0.7.5
 
 ## Getting Started
 
