@@ -1,4 +1,4 @@
-# news_app
+# News Today App
 
 A Flutter application for displaying live news using API from newsapi.org 
 
